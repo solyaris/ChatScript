@@ -14,16 +14,16 @@
 
   [Vim](http://www.vim.org/) is probably the most used editor ever (from CLI in \*nix OSs). To install:
 
-  [ChatScript.vim](https://github.com/solyaris/ChatScript.vim)
+  [solyarisoftware/ChatScript.vim](https://github.com/solyarisoftware/ChatScript.vim)
 
 
 # Client-server ChatScript integrations
 
 ## rChatScript
 
-  https://github.com/solyaris/rChatScript
+  https://github.com/solyarisoftware/rChatScript
 
-It's a very basic ChatScript client Ruby gem, managing OOB messages. Contains an [example](https://github.com/solyaris/rChatScript/tree/master/examples/telegram) of ChatScript integration with [Telegram](www.telegram.org) instant messaging chat app.
+It's a very basic ChatScript client Ruby gem, managing OOB messages. Contains an [example](https://github.com/solyarisoftware/rChatScript/tree/master/examples/telegram) of ChatScript integration with [Telegram](www.telegram.org) instant messaging chat app.
 
 ## Smooch.io integration
 
